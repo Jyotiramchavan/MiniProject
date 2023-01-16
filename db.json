@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "server",
+      "author": "typicode"
+    },
+    {
+      "email": "",
+      "password": "",
+      "confirm_password": "",
+      "dname": "",
+      "id": 2
+    },
+    {
+      "email": "",
+      "password": "",
+      "confirm_password": "",
+      "dname": "",
+      "id": 3
+    },
+    {
+      "email": "",
+      "password": "",
+      "confirm_password": "",
+      "dname": "",
+      "id": 4
+    },
+    {
+      "email": "jyotiramc9997@gmail.com",
+      "password": "12345678",
+      "confirm_password": "12345678",
+      "dname": "Dev",
+      "id": 5
+    }
+  ]
+}
